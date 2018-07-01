@@ -90,7 +90,7 @@
     "radix": true,
     "semicolon": [
       true,
-      "always"
+      "never"
     ],
     "triple-equals": [
       true,
@@ -125,6 +125,6 @@
     "use-life-cycle-interface": true,
     "use-pipe-transform-interface": true,
     "component-class-suffix": true,
-    "directive-class-suffix": true
+    "directive-class-suffix": true,
   }
 }
